@@ -1,2 +1,2 @@
 # Atividades UFPA
- Minhas atividades de algoritmo,
+ Essas são minhas atividades de Algoritmo da Universidade Federal do Pará.
